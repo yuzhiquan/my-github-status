@@ -22,7 +22,7 @@
 | 12 | [how-to-use-Vue-just-like-jQuery](https://github.com/ThaddeusJiang/how-to-use-Vue-just-like-jQuery)         | 2020-06-03 | 2020-06-07 | HTML       |     0 |
 | 13 | [jsonld-helpers](https://github.com/ThaddeusJiang/jsonld-helpers)                                           | 2020-10-21 | 2021-01-26 | TypeScript |     0 |
 | 14 | [gistz](https://github.com/ThaddeusJiang/gistz)                                                             | 2019-05-28 | 2019-07-16 | JavaScript |     0 |
-| 15 | [my-github-status](https://github.com/ThaddeusJiang/my-github-status)                                       | 2021-03-23 | 2021-04-08 | md         |     0 |
+| 15 | [my-github-status](https://github.com/ThaddeusJiang/my-github-status)                                       | 2021-03-23 | 2021-04-09 | md         |     0 |
 | 16 | [oh-my-hammerspoon](https://github.com/ThaddeusJiang/oh-my-hammerspoon)                                     | 2019-04-14 | 2020-07-04 | Lua        |     0 |
 | 17 | [generate-post-card](https://github.com/ThaddeusJiang/generate-post-card)                                   | 2020-12-04 | 2020-12-04 | Vue        |     0 |
 | 18 | [demo-nuxt-google-map](https://github.com/ThaddeusJiang/demo-nuxt-google-map)                               | 2020-10-13 | 2020-10-15 | Vue        |     0 |
@@ -40,33 +40,33 @@
 | ID |                                    REPO                                    | FIRSTDATE  | LASTEDATE  |                                            PRCOUNT                                            |
 |----|----------------------------------------------------------------------------|------------|------------|-----------------------------------------------------------------------------------------------|
 |  1 | [app.orangesys.io](https://github.com/orangesys/app.orangesys.io)          | 2020-03-21 | 2020-05-11 | [8](https://github.com/orangesys/app.orangesys.io/pulls?q=is%3Apr+author%3AThaddeusJiang)     |
-|  2 | [windicss-intellisense](https://github.com/windicss/windicss-intellisense) | 2021-03-14 | 2021-04-05 | [3](https://github.com/windicss/windicss-intellisense/pulls?q=is%3Apr+author%3AThaddeusJiang) |
-|  3 | [desktop-app](https://github.com/leanote/desktop-app)                      | 2016-04-28 | 2016-05-12 | [3](https://github.com/leanote/desktop-app/pulls?q=is%3Apr+author%3AThaddeusJiang)            |
-|  4 | [great-h.github.io](https://github.com/great-h/great-h.github.io)          | 2016-11-23 | 2016-12-01 | [2](https://github.com/great-h/great-h.github.io/pulls?q=is%3Apr+author%3AThaddeusJiang)      |
-|  5 | [app.cloudfunctions](https://github.com/orangesys/app.cloudfunctions)      | 2020-03-22 | 2020-05-09 | [2](https://github.com/orangesys/app.cloudfunctions/pulls?q=is%3Apr+author%3AThaddeusJiang)   |
-|  6 | [ant-design-pro-site](https://github.com/ant-design/ant-design-pro-site)   | 2017-11-07 | 2017-11-07 | [1](https://github.com/ant-design/ant-design-pro-site/pulls?q=is%3Apr+author%3AThaddeusJiang) |
-|  7 | [xstate-test-demo](https://github.com/davidkpiano/xstate-test-demo)        | 2020-04-22 | 2020-04-22 | [1](https://github.com/davidkpiano/xstate-test-demo/pulls?q=is%3Apr+author%3AThaddeusJiang)   |
-|  8 | [ant-design-pro](https://github.com/ant-design/ant-design-pro)             | 2017-11-13 | 2017-11-13 | [1](https://github.com/ant-design/ant-design-pro/pulls?q=is%3Apr+author%3AThaddeusJiang)      |
-|  9 | [rc-tools](https://github.com/react-component/rc-tools)                    | 2018-06-01 | 2018-06-01 | [1](https://github.com/react-component/rc-tools/pulls?q=is%3Apr+author%3AThaddeusJiang)       |
-| 10 | [cheatsheets](https://github.com/justjavac/cheatsheets)                    | 2017-12-26 | 2017-12-26 | [1](https://github.com/justjavac/cheatsheets/pulls?q=is%3Apr+author%3AThaddeusJiang)          |
-| 11 | [solarlunar](https://github.com/yize/solarlunar)                           | 2017-09-28 | 2017-09-28 | [1](https://github.com/yize/solarlunar/pulls?q=is%3Apr+author%3AThaddeusJiang)                |
-| 12 | [electron](https://github.com/electron/electron)                           | 2016-06-07 | 2016-06-07 | [1](https://github.com/electron/electron/pulls?q=is%3Apr+author%3AThaddeusJiang)              |
-| 13 | [react](https://github.com/facebook/react)                                 | 2018-06-08 | 2018-06-08 | [1](https://github.com/facebook/react/pulls?q=is%3Apr+author%3AThaddeusJiang)                 |
+|  2 | [desktop-app](https://github.com/leanote/desktop-app)                      | 2016-04-28 | 2016-05-12 | [3](https://github.com/leanote/desktop-app/pulls?q=is%3Apr+author%3AThaddeusJiang)            |
+|  3 | [windicss-intellisense](https://github.com/windicss/windicss-intellisense) | 2021-03-14 | 2021-04-05 | [3](https://github.com/windicss/windicss-intellisense/pulls?q=is%3Apr+author%3AThaddeusJiang) |
+|  4 | [app.cloudfunctions](https://github.com/orangesys/app.cloudfunctions)      | 2020-03-22 | 2020-05-09 | [2](https://github.com/orangesys/app.cloudfunctions/pulls?q=is%3Apr+author%3AThaddeusJiang)   |
+|  5 | [great-h.github.io](https://github.com/great-h/great-h.github.io)          | 2016-11-23 | 2016-12-01 | [2](https://github.com/great-h/great-h.github.io/pulls?q=is%3Apr+author%3AThaddeusJiang)      |
+|  6 | [ant-design-pro](https://github.com/ant-design/ant-design-pro)             | 2017-11-13 | 2017-11-13 | [1](https://github.com/ant-design/ant-design-pro/pulls?q=is%3Apr+author%3AThaddeusJiang)      |
+|  7 | [react](https://github.com/facebook/react)                                 | 2018-06-08 | 2018-06-08 | [1](https://github.com/facebook/react/pulls?q=is%3Apr+author%3AThaddeusJiang)                 |
+|  8 | [date-fns](https://github.com/date-fns/date-fns)                           | 2019-03-20 | 2019-03-20 | [1](https://github.com/date-fns/date-fns/pulls?q=is%3Apr+author%3AThaddeusJiang)              |
+|  9 | [solarlunar](https://github.com/yize/solarlunar)                           | 2017-09-28 | 2017-09-28 | [1](https://github.com/yize/solarlunar/pulls?q=is%3Apr+author%3AThaddeusJiang)                |
+| 10 | [electron](https://github.com/electron/electron)                           | 2016-06-07 | 2016-06-07 | [1](https://github.com/electron/electron/pulls?q=is%3Apr+author%3AThaddeusJiang)              |
+| 11 | [ant-design-pro-site](https://github.com/ant-design/ant-design-pro-site)   | 2017-11-07 | 2017-11-07 | [1](https://github.com/ant-design/ant-design-pro-site/pulls?q=is%3Apr+author%3AThaddeusJiang) |
+| 12 | [xstate-test-demo](https://github.com/davidkpiano/xstate-test-demo)        | 2020-04-22 | 2020-04-22 | [1](https://github.com/davidkpiano/xstate-test-demo/pulls?q=is%3Apr+author%3AThaddeusJiang)   |
+| 13 | [rc-tools](https://github.com/react-component/rc-tools)                    | 2018-06-01 | 2018-06-01 | [1](https://github.com/react-component/rc-tools/pulls?q=is%3Apr+author%3AThaddeusJiang)       |
 | 14 | [dva-knowledgemap](https://github.com/dvajs/dva-knowledgemap)              | 2018-04-08 | 2018-04-08 | [1](https://github.com/dvajs/dva-knowledgemap/pulls?q=is%3Apr+author%3AThaddeusJiang)         |
-| 15 | [date-fns](https://github.com/date-fns/date-fns)                           | 2019-03-20 | 2019-03-20 | [1](https://github.com/date-fns/date-fns/pulls?q=is%3Apr+author%3AThaddeusJiang)              |
+| 15 | [cheatsheets](https://github.com/justjavac/cheatsheets)                    | 2017-12-26 | 2017-12-26 | [1](https://github.com/justjavac/cheatsheets/pulls?q=is%3Apr+author%3AThaddeusJiang)          |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [xstate-test-demo](https://github.com/davidkpiano/xstate-test-demo)         | 2020-04-22 | JavaScript | 2021-04-02   |
-|  2 | [wave-ui](https://github.com/antoniandre/wave-ui)                           | 2021-02-10 | Vue        | 2021-04-07   |
-|  3 | [just](https://github.com/angus-c/just)                                     | 2021-03-22 | JavaScript | 2021-04-08   |
-|  4 | [import-map-overrides](https://github.com/joeldenning/import-map-overrides) | 2020-06-04 | JavaScript | 2021-04-08   |
-|  5 | [ava](https://github.com/avajs/ava)                                         | 2019-08-14 | JavaScript | 2021-04-08   |
-|  6 | [firebase-tools](https://github.com/firebase/firebase-tools)                | 2020-02-11 | TypeScript | 2021-04-08   |
-|  7 | [qmoji](https://github.com/jaredly/qmoji)                                   | 2019-08-06 | OCaml      | 2021-04-07   |
-|  8 | [ts-react-parcel](https://github.com/adhrinae/ts-react-parcel)              | 2019-08-14 | TypeScript | 2021-03-11   |
-|  9 | [vue-roller](https://github.com/Andy-0414/vue-roller)                       | 2021-02-08 | Vue        | 2021-04-07   |
-| 10 | [no-cli-ads](https://github.com/kethinov/no-cli-ads)                        | 2019-08-27 | JavaScript | 2021-03-31   |
+| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kohitory](https://github.com/hamcompe/kohitory)                       | 2019-09-19 | JavaScript | 2020-03-25   |
+|  2 | [Dash-Alfred-Workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) | 2019-06-07 | md         | 2021-03-25   |
+|  3 | [bamboo](https://github.com/thoughtbot/bamboo)                         | 2021-01-02 | Elixir     | 2021-04-09   |
+|  4 | [home](https://github.com/vuejs-jp/home)                               | 2020-03-31 | Vue        | 2021-03-13   |
+|  5 | [awesome-elixir](https://github.com/h4cc/awesome-elixir)               | 2019-03-22 | Elixir     | 2021-04-09   |
+|  6 | [webp_server_go](https://github.com/webp-sh/webp_server_go)            | 2020-03-08 | Go         | 2021-04-09   |
+|  7 | [xterm.js](https://github.com/xtermjs/xterm.js)                        | 2020-03-12 | TypeScript | 2021-04-09   |
+|  8 | [Gyazo](https://github.com/gyazo/Gyazo)                                | 2020-05-10 | Ruby       | 2021-03-14   |
+|  9 | [parcel](https://github.com/parcel-bundler/parcel)                     | 2017-12-07 | JavaScript | 2021-04-09   |
+| 10 | [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) | 2020-05-24 | JavaScript | 2021-04-09   |
 
 <!--END_SECTION:my_github-->
